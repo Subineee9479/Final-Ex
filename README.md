@@ -7,4 +7,3 @@
 - 회원정보 수정
 - 회원삭제
 - 로그아웃
-## 유튜브: https://www.youtube.com/@codingrecipe
